@@ -25,8 +25,8 @@ To get a local copy of the project up and running on your machine, follow these 
 You will need a modern web browser to run the application. No additional software is required.
 
 # Installation
-1. Clone the repository:
-git clone https://github.com/Shahadsheikh/Calculator-App.git
+1. Download the zip file
+2. Extract the file and copy Calculator-App-main folder
 2. Open the index.html file in your web browser.
 
 You can check out the running project [here](https://shahadsheikh.github.io/Calculator-App/).
