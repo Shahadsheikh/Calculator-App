@@ -29,4 +29,6 @@ You will need a modern web browser to run the application. No additional softwar
 git clone https://github.com/Shahadsheikh/Calculator-App.git
 2. Open the index.html file in your web browser.
 
+You can check out the running project [here](https://shahadsheikh.github.io/Calculator-App/).
+
 Contributions are welcome! 
